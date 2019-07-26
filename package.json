@@ -1,0 +1,19 @@
+{
+  "name": "gx-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "google_trends.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-trends-api": "^4.9.0",
+    "hashtag-count": "^1.1.0",
+    "moment": "^2.24.0",
+    "pg": "^7.11.0",
+    "pg-format": "^1.0.4",
+    "twitter": "^1.7.1"
+  }
+}

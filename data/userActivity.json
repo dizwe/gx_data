@@ -1,0 +1,1704 @@
+{
+    "sampleRate": 1,
+    "sessions": [
+        {
+            "activities": [
+                {
+                    "activityTime": "2019-07-23T23:47:14.947815Z",
+                    "activityType": "PAGEVIEW",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "pageview": {
+                        "pagePath": "/",
+                        "pageTitle": "React App"
+                    },
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T23:45:55.922029Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563893155820",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T23:45:55.920526Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "menu",
+                        "eventCategory": "home",
+                        "eventCount": "1",
+                        "eventLabel": "hihi"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T23:45:50.461094Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563893150366",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T23:45:48.491388Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563893148386",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T23:45:48.491270Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "menu",
+                        "eventCategory": "home",
+                        "eventCount": "1",
+                        "eventLabel": "hihi"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T23:45:42.303171Z",
+                    "activityType": "PAGEVIEW",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "pageview": {
+                        "pagePath": "/",
+                        "pageTitle": "React App"
+                    },
+                    "source": "blog.naver.com"
+                }
+            ],
+            "dataSource": "web",
+            "deviceCategory": "desktop",
+            "platform": "Macintosh",
+            "sessionDate": "2019-07-23",
+            "sessionId": "1563893142"
+        },
+        {
+            "activities": [
+                {
+                    "activityTime": "2019-07-23T16:31:45.294716Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "broadcast",
+                        "eventCategory": "home",
+                        "eventCount": "1",
+                        "eventLabel": "mbc"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T16:31:45.293064Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563867105206",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T16:31:43.651973Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563867103559",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T16:31:43.650881Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "broadcast",
+                        "eventCategory": "home",
+                        "eventCount": "1",
+                        "eventLabel": "mbc"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T16:31:40.985222Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563867100898",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T16:31:39.226654Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563867099088",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T16:30:57.845976Z",
+                    "activityType": "PAGEVIEW",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "pageview": {
+                        "pagePath": "/",
+                        "pageTitle": "React App"
+                    },
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T16:12:51.627925Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563865971509",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                }
+            ],
+            "dataSource": "web",
+            "deviceCategory": "desktop",
+            "platform": "Macintosh",
+            "sessionDate": "2019-07-23",
+            "sessionId": "1563865971"
+        },
+        {
+            "activities": [
+                {
+                    "activityTime": "2019-07-23T15:17:24.649826Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563862644531",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T15:16:53.644152Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563862613561",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T15:16:50.773920Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563862610692",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T15:14:46.347206Z",
+                    "activityType": "PAGEVIEW",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "pageview": {
+                        "pagePath": "/",
+                        "pageTitle": "React App"
+                    },
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T15:03:56.282321Z",
+                    "activityType": "PAGEVIEW",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "pageview": {
+                        "pagePath": "/",
+                        "pageTitle": "React App"
+                    },
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T15:03:54.974130Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563861834890",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T15:03:21.577652Z",
+                    "activityType": "PAGEVIEW",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "pageview": {
+                        "pagePath": "/",
+                        "pageTitle": "React App"
+                    },
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:35:27.310007Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "broadcast1563860127207",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "sbs",
+                        "eventValue": "545"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:35:27.306879Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563860127193",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:35:20.397558Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563860120182",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:35:17.310833Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "broadcast1563860117209",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "sbs",
+                        "eventValue": "545"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:35:17.307734Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563860117195",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:35:16.648882Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "broadcast1563860116547",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "sbs",
+                        "eventValue": "545"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:35:16.638204Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563860116533",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:34:56.007418Z",
+                    "activityType": "PAGEVIEW",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "pageview": {
+                        "pagePath": "/",
+                        "pageTitle": "React App"
+                    },
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:34:55.365756Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563860095210",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:33:27.219652Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563860007116",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:32:52.641448Z",
+                    "activityType": "PAGEVIEW",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "pageview": {
+                        "pagePath": "/",
+                        "pageTitle": "React App"
+                    },
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:32:51.495756Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563859971396",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:30:07.513445Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563859807420",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:30:07.319751Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563859807226",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:30:06.853509Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563859806761",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:30:06.692256Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563859806600",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:30:06.517788Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563859806421",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:30:06.337228Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563859806241",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:30:06.154473Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563859806059",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:30:05.974861Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563859805879",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:30:05.797662Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563859805702",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:30:05.570527Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563859805476",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:30:05.055861Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563859804918",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:28:42.448811Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563859722348",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:28:37.635047Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563859717541",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test",
+                        "eventValue": "44"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:28:32.785259Z",
+                    "activityType": "PAGEVIEW",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "pageview": {
+                        "pagePath": "/",
+                        "pageTitle": "React App"
+                    },
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:28:00.879312Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563859680785",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:27:58.338249Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563859678234",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:27:53.327964Z",
+                    "activityType": "PAGEVIEW",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "pageview": {
+                        "pagePath": "/",
+                        "pageTitle": "React App"
+                    },
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:27:48.366635Z",
+                    "activityType": "PAGEVIEW",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "pageview": {
+                        "pagePath": "/",
+                        "pageTitle": "React App"
+                    },
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:25:10.334253Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563859510234",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:25:04.846249Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "1563859504738",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "new_test"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:24:57.308306Z",
+                    "activityType": "PAGEVIEW",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "pageview": {
+                        "pagePath": "/",
+                        "pageTitle": "React App"
+                    },
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:00:36.482314Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "broadcast1563858036414",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "sbs"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:00:36.282934Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "broadcast1563858036215",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "sbs"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:00:36.118857Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "broadcast1563858036045",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "sbs"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:00:35.715094Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "broadcast1563858035638",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "sbs"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T14:00:21.823160Z",
+                    "activityType": "PAGEVIEW",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "pageview": {
+                        "pagePath": "/",
+                        "pageTitle": "React App"
+                    },
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T13:57:24.312194Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "broadcast",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "sbs"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T13:56:51.519383Z",
+                    "activityType": "PAGEVIEW",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "pageview": {
+                        "pagePath": "/",
+                        "pageTitle": "React App"
+                    },
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T13:50:55.470638Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "broadcast",
+                        "eventCategory": "GA1.1.81224557.1563269685",
+                        "eventCount": "1",
+                        "eventLabel": "sbs"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T13:50:51.025942Z",
+                    "activityType": "PAGEVIEW",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "pageview": {
+                        "pagePath": "/",
+                        "pageTitle": "React App"
+                    },
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T13:50:27.781774Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "broadcast",
+                        "eventCategory": "school",
+                        "eventCount": "1",
+                        "eventLabel": "sbs"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T13:50:24.872918Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "broadcast",
+                        "eventCategory": "school",
+                        "eventCount": "1",
+                        "eventLabel": "sbs"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T13:50:24.151527Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "broadcast",
+                        "eventCategory": "school",
+                        "eventCount": "1",
+                        "eventLabel": "sbs"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T13:49:36.492328Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "broadcast",
+                        "eventCategory": "school",
+                        "eventCount": "1",
+                        "eventLabel": "sbs"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T13:49:29.954739Z",
+                    "activityType": "PAGEVIEW",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "pageview": {
+                        "pagePath": "/",
+                        "pageTitle": "React App"
+                    },
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T13:44:36.571760Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "broadcast",
+                        "eventCategory": "school",
+                        "eventCount": "1",
+                        "eventLabel": "sbs"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T13:44:35.694512Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "broadcast",
+                        "eventCategory": "school",
+                        "eventCount": "1",
+                        "eventLabel": "sbs"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T13:44:34.842283Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "broadcast",
+                        "eventCategory": "school",
+                        "eventCount": "1",
+                        "eventLabel": "sbs"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T13:44:34.126612Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "broadcast",
+                        "eventCategory": "school",
+                        "eventCount": "1",
+                        "eventLabel": "sbs"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T13:44:32.739803Z",
+                    "activityType": "EVENT",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "event": {
+                        "eventAction": "broadcast",
+                        "eventCategory": "school",
+                        "eventCount": "1",
+                        "eventLabel": "sbs"
+                    },
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T13:44:30.205125Z",
+                    "activityType": "PAGEVIEW",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "pageview": {
+                        "pagePath": "/",
+                        "pageTitle": "React App"
+                    },
+                    "source": "blog.naver.com"
+                },
+                {
+                    "activityTime": "2019-07-23T13:39:03.634534Z",
+                    "activityType": "PAGEVIEW",
+                    "campaign": "(not set)",
+                    "channelGrouping": "Social",
+                    "customDimension": [
+                        {
+                            "index": 1
+                        }
+                    ],
+                    "hostname": "localhost",
+                    "keyword": "(not set)",
+                    "landingPagePath": "/",
+                    "medium": "referral",
+                    "pageview": {
+                        "pagePath": "/",
+                        "pageTitle": "React App"
+                    },
+                    "source": "blog.naver.com"
+                }
+            ],
+            "dataSource": "web",
+            "deviceCategory": "desktop",
+            "platform": "Macintosh",
+            "sessionDate": "2019-07-23",
+            "sessionId": "1563856743"
+        }
+    ],
+    "totalRows": 76
+}
