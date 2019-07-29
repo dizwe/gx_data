@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@slack/client": "^5.0.1",
     "google-trends-api": "^4.9.0",
     "hashtag-count": "^1.1.0",
     "moment": "^2.24.0",
