@@ -1,5 +1,3 @@
-"""Hello Analytics Reporting API V4."""
-
 from apiclient.discovery import build
 from oauth2client.service_account import ServiceAccountCredentials
 import pprint
@@ -38,11 +36,11 @@ def get_report(analytics):
         {
           'viewId': VIEW_ID,
           # 'dateRanges': [{'startDate': '7daysAgo', 'endDate': 'today'}],
-          'dateRanges': [{'startDate': '2019-07-01', 'endDate': '2019-07-25'}],
+          'dateRanges': [{'startDate': '2019-07-25', 'endDate': '2019-07-30'}],
            # 실제로 분류할 컬럼들
-          'dimensions': [{'name': 'ga:eventCategory'}], 
-          'metrics': [{'expression': 'ga:totalEvents'},{'expression': 'ga:eventValue'}]
-
+          'dimensions': [{'name':'ga:previousPagePath'},{'name': 'ga:pagePath'},{'name': 'ga:pageTitle'}], 
+          'metrics': [{'expression': 'ga:pageviews'},{'expression': 'ga:timeOnPage'}]
+          
         }]
       }
   ).execute()

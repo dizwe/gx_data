@@ -2,3 +2,7 @@ gx_real_google_key.json
 gx-data-7f55c361328f.json
 node_modules/
 .DS_Store
+chromedriver
+refer/
+.ipynb_checkpoints/
+UserActivity.json

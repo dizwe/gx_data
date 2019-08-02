@@ -8,8 +8,6 @@ SCOPES = ['https://www.googleapis.com/auth/analytics.readonly']
 KEY_FILE_LOCATION = './gx-data-7f55c361328f.json'
 VIEW_ID = '198522093'
 
-START = '2019-07-30'
-END = '2019-07-30'
 
 def initialize_analyticsreporting():
   """Initializes an Analytics Reporting API V4 service object.
@@ -26,36 +24,7 @@ def initialize_analyticsreporting():
   return analytics
 
 
-def get_user_list(analytics):
-  response =  analytics.reports().batchGet(
-      body={
-        'reportRequests': [
-        {
-          'viewId': VIEW_ID,
-          # 'dateRanges': [{'startDate': '7daysAgo', 'endDate': 'today'}],
-          'dateRanges': [{'startDate': START, 'endDate': END}],
-           # 실제로 분류할 컬럼들
-          'dimensions': [{'name': 'ga:eventCategory'}], 
-          'metrics': [{'expression': 'ga:totalEvents'},{'expression': 'ga:eventValue'}]
-
-        }]
-      }
-  ).execute()
-  def get_user(x):
-    # GA1.1.81224557.1563269685
-    ga_whole = x['dimensions'][0]
-    if "GA" in ga_whole:
-      splited_ga = ga_whole.split('.')
-      return splited_ga[2] + '.' + splited_ga[3]
-    else:
-      return ""
-  rows=response['reports'][0]['data']['rows']
-  user_list = list(map(get_user, rows))
-  unique_user_list = list(set(user_list))
-  return unique_user_list
-
-
-def get_report(analytics, userId):
+def get_report(analytics):
   """Queries the Analytics Reporting API V4.
 
   Args:
@@ -63,21 +32,19 @@ def get_report(analytics, userId):
   Returns:
     The Analytics Reporting API V4 response.
   """
-  return analytics.userActivity().search(
-      body=
-          {
-            "dateRange": {
-             'startDate': START, 'endDate': END,
-            },
-            "viewId": VIEW_ID,
-            "user": {
-              "type":"CLIENT_ID",
-              "userId":userId,
-            },
-            "activityTypes": [
-              "PAGEVIEW","SCREENVIEW","EVENT"
-            ]
-          }
+  return analytics.reports().batchGet(
+      body={
+        'reportRequests': [
+        {
+          'viewId': VIEW_ID,
+          # 'dateRanges': [{'startDate': '7daysAgo', 'endDate': 'today'}],
+          'dateRanges': [{'startDate': '2019-07-29', 'endDate': '2019-08-01'}],
+           # 실제로 분류할 컬럼들
+          'dimensions': [{'name': 'ga:eventCategory'}], 
+          'metrics': [{'expression': 'ga:totalEvents'},{'expression': 'ga:eventValue'}]
+
+        }]
+      }
   ).execute()
 
 
@@ -108,18 +75,10 @@ def print_response(response):
 
 def main():
   analytics = initialize_analyticsreporting()
+  response = get_report(analytics)
   pp = pprint.PrettyPrinter(indent=2)
-  user_list = get_user_list(analytics)  
-  for user in user_list:
-    print(user)
-    response = get_report(analytics,user)
-    pp.pprint(response)
-
-  import json
-
-  with open("userActivity.json", "w") as userActivity:
-    json.dump(response, userActivity, indent=4, sort_keys=True)
-  # print_response(response)
+  pp.pprint(response)
+  print_response(response)
 
 if __name__ == '__main__':
   main()

@@ -3,9 +3,9 @@
 import requests
 import json
 import pprint
-
+import os
 headers = {'X-Naver-Client-Id': 'bfTkg54c3nugOrnMU81d',
-            'X-Naver-Client-Secret' : os.getenv('NAVER_SECRET')
+            'X-Naver-Client-Secret' : os.getenv('NAVER_SECRET')}
 
 page = 0
 data = []

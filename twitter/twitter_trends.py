@@ -14,7 +14,6 @@ q = 'klaytn'
 # head = {'authorization':'OAuth oauth_consumer_key'}
 # requests.get('https://api.twitter.com/1.1/',)
 
-
 #%%
 
 import oauth2
@@ -95,6 +94,4 @@ if since_id != 0: # 빈 내용이 아니라면
     print('retweet_num, favorite_num, tweets_num')
     print(retweet_num, favorite_num, tweets_num)
     
-    
-
 #%%
