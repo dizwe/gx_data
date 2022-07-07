@@ -12,7 +12,7 @@
     "@slack/client": "^5.0.1",
     "google-trends-api": "^4.9.0",
     "hashtag-count": "^1.1.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "pg": "^7.11.0",
     "pg-format": "^1.0.4",
     "twitter": "^1.7.1"
